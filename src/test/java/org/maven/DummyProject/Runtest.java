@@ -10,4 +10,11 @@ public class Runtest {
 		System.out.println("java");
 	}
 
+	
+	@Test
+	public void NewMethod() {
+		System.out.println("programming");
+	}
+	
+	
 }
