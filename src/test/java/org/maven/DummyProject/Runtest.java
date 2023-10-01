@@ -17,4 +17,10 @@ public class Runtest {
 	}
 	
 	
+	@Test
+	public void main() {
+		System.out.println("Hello world");
+	}
+	
+	
 }
