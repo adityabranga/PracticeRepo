@@ -1,4 +1,4 @@
-package org.maven.DummyProject;
+package org.maven.ModifiedProject;
 
 import org.testng.annotations.Test;
 
